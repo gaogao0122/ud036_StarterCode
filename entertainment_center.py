@@ -10,8 +10,7 @@ avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
                      "https://en.wikipedia.org/wiki/Avatar_(2009_film)#/media/File:Avatar-Teaser-Poster.jpg",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
-#print(avatar.storyline)
-#avatar.show_trailer()
+
 school_of_rock = media.Movie("School of Rock",
                      "Using rock music to learn",
                      "https://en.wikipedia.org/wiki/School_of_Rock#/media/File:School_of_Rock_Poster.jpg",
